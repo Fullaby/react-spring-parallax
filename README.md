@@ -16,6 +16,8 @@ Have you ever scrolled through a page that felt dynamic? As if you were scrollin
 
 What’s often happening is that the background image will be held in place or move slowly while the images and text on the page scroll normally. You can see it in this project here:
 
+https://parallaxfullaby.web.app/
 
+### THANKYOU FOR CHECKING IT OUT
 
 
