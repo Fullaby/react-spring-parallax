@@ -18,6 +18,6 @@ What’s often happening is that the background image will be held in place or m
 
 https://parallaxfullaby.web.app/
 
-### THANKYOU FOR CHECKING IT OUT
+## THANKYOU FOR CHECKING IT OUT
 
 
